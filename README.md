@@ -97,7 +97,7 @@ It includes:
 
 The categories include Camera, Car Accessories, Men Clothes, Men Shoes, Mobile & Accessories, and Toys.
 
-![Product Category Analysis](Screenshots/03_Category_Analysis.png)
+![Product Category Analysis](Screenshots/03_Product_Category_Analysis.png)
 
 ### 4. Top 5 Products by YTD Sales
 
