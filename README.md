@@ -49,10 +49,12 @@ The dashboard was designed to answer questions such as:
 
 The dashboard provides the following key performance indicators:
 
-* **YTD Sales:** Approximately $2.18M
-* **QTD Sales:** $811.09K
-* **YTD Products Sold:** 27.75K
-* **YTD Reviews:** 19.42M
+| KPI | Value |
+|---|---:|
+| YTD Sales | Approximately $2.18M |
+| QTD Sales | $811.09K |
+| YTD Products Sold | 27.75K |
+| YTD Reviews | 19.42M |
 
 ---
 
