@@ -189,5 +189,3 @@ The top five products by YTD reviews provide an overview of products generating 
 **Domain:** E-commerce / Retail Analytics
 
 **Primary Tool:** Microsoft Power BI
-
-**Repository:** [Amazon Products Sales Analysis](https://github.com/your-username/amazon-products-sales-analysis)
